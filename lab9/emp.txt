@@ -1,0 +1,6 @@
+ID      | NAME          | ROLE          | JOINDATE      | SALARY| DID
+68319   | Kayling       | President     | 1991-11-18    | 6000  | 1001
+66928   | Blaze         | Manager       | 1991-05-01    | 2750  | 3001
+67832   | Clare         | Manager       | 1991-04-02    | 2951  | 2001
+65646   | Jonas         | Manager       | 1991-04-02    | 2951  | 2001
+69000   | Julius        | Salaesman     | 1991-12-03    | 1050  | 3001
