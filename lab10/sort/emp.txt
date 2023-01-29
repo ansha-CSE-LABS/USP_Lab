@@ -1,0 +1,4 @@
+manager	5000
+clerk	1000
+intern	2000
+cto	10000
